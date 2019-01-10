@@ -1,4 +1,5 @@
 {
+  "name": "ng-symbiosis-model",
   "version": "0.0.2",
   "description": "AngularJS model",
   "dependencies": {},
